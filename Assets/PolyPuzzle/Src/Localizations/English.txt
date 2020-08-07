@@ -1,0 +1,45 @@
+titleImageName = title_en
+
+
+btnyes = YES
+btnno = NO
+
+btnOK = OK
+btnBack = back
+btnRetry = retry
+btnNext = next
+btnClose = close
+
+totalScore = TOTAL SCORE:
+continue = CONTINUE
+
+
+askTip = Are you sure to use tip?
+
+levelComplete = level completed
+
+level = level
+nextTip = next free tip: 
+seconds = seconds
+tipRemain = Tip remain: 
+buyTip = No tips left. \nWould you like to get some?
+
+btneasy = Easy
+btnmedium = Medium
+btnadvanced = Advanced
+btnhard = Hard
+btnexpert = Expert
+
+levelTitle = Choose Level
+mainTitle = Polygon Puzzle
+
+
+titleShop = SHOP
+price0Tip = Get 20 Tips
+price0 = $0.99
+price1Tip = Get 50 Tips
+price1 = $1.99
+price2Tip = Get 100 Tips
+price2 = $2.99
+free = Free
+freeCoin = Watch ads to earn 2 tips
