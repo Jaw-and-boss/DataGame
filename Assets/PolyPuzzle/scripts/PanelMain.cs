@@ -149,6 +149,7 @@ namespace Hitcode_tangram
 
                     }
                     break;
+                    /*
                 case "btnReview":
                     GameManager.getInstance().playSfx("click");
                     //			UniRate.Instance.RateIfNetworkAvailable();
@@ -162,6 +163,7 @@ namespace Hitcode_tangram
                     GameManager.getInstance().playSfx("click");
                     GameManager.getInstance().ShowLeaderboard();
                     break;
+                    */
             }
         }
 

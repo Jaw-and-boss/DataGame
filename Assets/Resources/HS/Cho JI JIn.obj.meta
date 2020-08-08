@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 40fa4edb61a121f4d95fa957465f0d76
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base_0
+    100002: Base_1
+    100004: //RootNode
+    100006: House_0
+    100008: House_1
+    100010: House_2
+    100012: House_3
+    100014: House_4
+    100016: House_5
+    100018: House_6
+    100020: House_7
+    100022: Road
+    100024: Stairs_0
+    100026: Stairs_1
+    100028: Wall_0
+    100030: Wall_1
+    100032: Wall_2
+    100034: Wall_3
+    400000: Base_0
+    400002: Base_1
+    400004: //RootNode
+    400006: House_0
+    400008: House_1
+    400010: House_2
+    400012: House_3
+    400014: House_4
+    400016: House_5
+    400018: House_6
+    400020: House_7
+    400022: Road
+    400024: Stairs_0
+    400026: Stairs_1
+    400028: Wall_0
+    400030: Wall_1
+    400032: Wall_2
+    400034: Wall_3
+    2100000: Base_0Mat
+    2100002: Base_1Mat
+    2100004: House_0Mat
+    2100006: House_1Mat
+    2100008: House_2Mat
+    2100010: House_3Mat
+    2100012: House_4Mat
+    2100014: House_5Mat
+    2100016: House_6Mat
+    2100018: House_7Mat
+    2100020: RoadMat
+    2100022: Stairs_0Mat
+    2100024: Stairs_1Mat
+    2100026: Wall_0Mat
+    2100028: Wall_1Mat
+    2100030: Wall_2Mat
+    2100032: Wall_3Mat
+    2300000: Base_0
+    2300002: Base_1
+    2300004: House_0
+    2300006: House_1
+    2300008: House_2
+    2300010: House_3
+    2300012: House_4
+    2300014: House_5
+    2300016: House_6
+    2300018: House_7
+    2300020: Road
+    2300022: Stairs_0
+    2300024: Stairs_1
+    2300026: Wall_0
+    2300028: Wall_1
+    2300030: Wall_2
+    2300032: Wall_3
+    3300000: Base_0
+    3300002: Base_1
+    3300004: House_0
+    3300006: House_1
+    3300008: House_2
+    3300010: House_3
+    3300012: House_4
+    3300014: House_5
+    3300016: House_6
+    3300018: House_7
+    3300020: Road
+    3300022: Stairs_0
+    3300024: Stairs_1
+    3300026: Wall_0
+    3300028: Wall_1
+    3300030: Wall_2
+    3300032: Wall_3
+    4300000: Base_0
+    4300002: Base_1
+    4300004: House_0
+    4300006: House_1
+    4300008: House_2
+    4300010: House_3
+    4300012: House_4
+    4300014: House_5
+    4300016: House_6
+    4300018: House_7
+    4300020: Road
+    4300022: Stairs_0
+    4300024: Stairs_1
+    4300026: Wall_0
+    4300028: Wall_1
+    4300030: Wall_2
+    4300032: Wall_3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_0Mat
+    second: {fileID: 2100000, guid: ace033b24c1825a48aef63edfb47a9c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_1Mat
+    second: {fileID: 2100000, guid: 9f66b680a39703247a6037eb7fe48865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_2Mat
+    second: {fileID: 2100000, guid: c50ed095bfabd62459d80507cef4bbb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_3Mat
+    second: {fileID: 2100000, guid: 7540b8f292b9ce54991ae3ea24e4cbd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_4Mat
+    second: {fileID: 2100000, guid: 14c948c502bda6543a662d52179191b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_5Mat
+    second: {fileID: 2100000, guid: c50ed095bfabd62459d80507cef4bbb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_6Mat
+    second: {fileID: 2100000, guid: ace033b24c1825a48aef63edfb47a9c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_7Mat
+    second: {fileID: 2100000, guid: 9f66b680a39703247a6037eb7fe48865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadMat
+    second: {fileID: 2100000, guid: b392167cae47fb94a89c7ff3dc2544d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_1Mat
+    second: {fileID: 2100000, guid: ace033b24c1825a48aef63edfb47a9c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_0Mat
+    second: {fileID: 2100000, guid: 8265f1fad4246ae43a9d658feeada904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_1Mat
+    second: {fileID: 2100000, guid: ace033b24c1825a48aef63edfb47a9c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_2Mat
+    second: {fileID: 2100000, guid: f4a1f82853f7f2242893517e46b13da5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_3Mat
+    second: {fileID: 2100000, guid: f4a1f82853f7f2242893517e46b13da5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
