@@ -207,7 +207,7 @@ namespace Hitcode_tangram
         public float frameWidth;//gameframe width;
         public float frameHeight;//gameframe height;
         public List<Vector2> polyPosArr;//current grid place of each polygon
-        public int uvZoom = 3;//zoom uv to make it smaller and repeat;set it to 1 if you want the puzzle result exactly the same of the texture.
+        public int uvZoom = 1;//zoom uv to make it smaller and repeat;set it to 1 if you want the puzzle result exactly the same of the texture.
 
         public List<Vector2> polyBounds;//record bound for each polygon
         public List<Vector2> currentStartPoses;//polygon's current start positions

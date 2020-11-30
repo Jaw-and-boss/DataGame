@@ -159,6 +159,28 @@ namespace Hitcode_tangram
                           /// when game wins.
                           /// </summary>
                           /// 
+        
+        public GameObject gamepanel;
+        public GameObject crispcontainer;
+        private void TurnOnWinPanel()
+        {
+            panelWin.SetActive(true);
+            
+        }
+        private IEnumerator DecreaseAlpha ()
+        {
+            while (gamepanel.GetComponent<Image>().color.a > 0)
+            {
+                gamepanel.GetComponent<Image>().color
+                    = new Color(
+                        gamepanel.GetComponent<Image>().color.r,
+                        gamepanel.GetComponent<Image>().color.g,
+                        gamepanel.GetComponent<Image>().color.b,
+                        gamepanel.GetComponent<Image>().color.a - 0.1f
+                        );
+                yield return new WaitForSeconds(0.1f);
+            }
+        }
         public void gameWin()
         {
             //fire win event
@@ -195,10 +217,12 @@ namespace Hitcode_tangram
                 starGet = 0;
             }
 
-            panelWin.SetActive(true);
+            crispcontainer.SetActive(false);
+            StartCoroutine(DecreaseAlpha());
+            Invoke("TurnOnWinPanel", 2.0f);
 
-            winpanel = panelWin.GetComponent<WinPanel>();
-            winpanel.showHidePanel(starGet);
+            //winpanel = panelWin.GetComponent<WinPanel>();
+            //winpanel.showHidePanel(starGet);
             //		GameObject.Find ("btnTip").GetComponent<Button> ().interactable = false;
 
             //save as this game unlock all level automatically,not use
@@ -297,9 +321,7 @@ namespace Hitcode_tangram
 
         public void loadMainScene()
         {
-            GameObject.Find("particle").SetActive(false);
-
-            SceneManager.LoadScene("MainMenu");
+            SceneManager.UnloadSceneAsync("Puzzle");
         }
 
         public void loadLevelScene()

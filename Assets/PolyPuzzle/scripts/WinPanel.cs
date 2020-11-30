@@ -21,20 +21,20 @@ namespace Hitcode_tangram
         {
             GameObject.Find("txtComplete").GetComponentInChildren<Text>().text = Localization.Instance.GetString("levelComplete");
 
-            bool isLastLevel = GameData.instance.cLevel >= GameData.totalLevel[GameData.difficulty] - 1;
+            //bool isLastLevel = GameData.instance.cLevel >= GameData.totalLevel[GameData.difficulty] - 1;
 
             btnBack = transform.Find("bg").Find("btnBack").gameObject;
-            btnBack.SetActive(isLastLevel);
+            btnBack.SetActive(true);
 
-            btnConti = transform.Find("bg").Find("btnConti").gameObject;
-            btnConti.SetActive(!isLastLevel);
+            //btnConti = transform.Find("bg").Find("btnConti").gameObject;
+            //btnConti.SetActive(!isLastLevel);
 
-            btnRetry = transform.Find("bg").Find("btnRetry").gameObject;
+            //btnRetry = transform.Find("bg").Find("btnRetry").gameObject;
 
 
-            btnConti.GetComponentInChildren<Text>().text = Localization.Instance.GetString("next");
-            btnBack.GetComponentInChildren<Text>().text = Localization.Instance.GetString("back");
-            btnRetry.GetComponentInChildren<Text>().text = Localization.Instance.GetString("retry");
+            //btnConti.GetComponentInChildren<Text>().text = Localization.Instance.GetString("next");
+            btnBack.GetComponentInChildren<Text>().text = Localization.Instance.GetString("Go Back");
+            //btnRetry.GetComponentInChildren<Text>().text = Localization.Instance.GetString("retry");
 
         }
 
