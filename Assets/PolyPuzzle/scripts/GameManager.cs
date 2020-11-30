@@ -311,14 +311,14 @@ namespace Hitcode_tangram
                 Localization.Instance.SetLanguage(GameData.getInstance().GetSystemLaguage());
         }
 
-        public static Purchaser purchaser;
+        //public static Purchaser purchaser;
 
         void initPurchase()
         {
 
             if (music != null)
             {
-                purchaser = music.GetComponent<Purchaser>();
+                //purchaser = music.GetComponent<Purchaser>();
             }
         }
 
@@ -475,13 +475,13 @@ namespace Hitcode_tangram
                 switch (index)
                 {
                     case 0:
-                        purchaser.BuyConsumable("pack0");
+                        //purchaser.BuyConsumable("pack0");
                         break;
                     case 1:
-                        purchaser.BuyConsumable("pack1");
+                        //purchaser.BuyConsumable("pack1");
                         break;
                     case 2:
-                        purchaser.BuyConsumable("pack2");
+                        //purchaser.BuyConsumable("pack2");
                         break;
                     case 3:
                         //this for video reward
@@ -496,7 +496,7 @@ namespace Hitcode_tangram
 
         public void restore()
         {
-            purchaser.RestorePurchases();
+            //purchaser.RestorePurchases();
         }
 
         /// <summary>
@@ -552,10 +552,11 @@ namespace Hitcode_tangram
 
         public string getPrice(int index)
         {
-            if (purchaser == null) return null;
-            string[] ids = { CONSUMABLE0, CONSUMABLE1, CONSUMABLE2, CONSUMABLE3 };
+            //if (purchaser == null) return null;
+            //string[] ids = { CONSUMABLE0, CONSUMABLE1, CONSUMABLE2, CONSUMABLE3 };
 
-            string tprice = purchaser.getPrice(ids[index]);
+            //string tprice = purchaser.getPrice(ids[index]);
+            string tprice = "";
             //Debug.Log(tprice);
             return tprice;
         }

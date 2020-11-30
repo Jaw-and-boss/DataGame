@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 7b6d59b8490c7164180d92a422405eb2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arch
+    100002: Base(L)
+    100004: //RootNode
+    100006: Base(R)
+    100008: Board_0
+    100010: Board_1
+    100012: Cube
+    100014: plate
+    100016: repair
+    100018: roof_0
+    100020: roof_1
+    100022: roof_2
+    100024: roof_3
+    100026: roof_4
+    100028: room_0
+    100030: room_1
+    100032: room_2
+    100034: Stairs(L)_0
+    100036: Stairs(L)_1
+    100038: Stairs(R)_0
+    100040: Stairs(R)_1
+    100042: wall(B)_0
+    100044: wall(B)_1
+    100046: wall(L)
+    400000: Arch
+    400002: Base(L)
+    400004: Base(R)
+    400006: //RootNode
+    400008: Board_0
+    400010: Board_1
+    400012: Cube
+    400014: plate
+    400016: repair
+    400018: roof_0
+    400020: roof_1
+    400022: roof_2
+    400024: roof_3
+    400026: roof_4
+    400028: room_0
+    400030: room_1
+    400032: room_2
+    400034: Stairs(L)_0
+    400036: Stairs(L)_1
+    400038: Stairs(R)_0
+    400040: Stairs(R)_1
+    400042: wall(B)_0
+    400044: wall(B)_1
+    400046: wall(L)
+    2100000: ArchMat
+    2100002: Base(L)Mat
+    2100004: Base(R)Mat
+    2100006: Board_0Mat
+    2100008: Board_1Mat
+    2100010: CubeMat
+    2100012: plateMat
+    2100014: repairMat
+    2100016: roof_0Mat
+    2100018: roof_1Mat
+    2100020: roof_2Mat
+    2100022: roof_3Mat
+    2100024: roof_4Mat
+    2100026: room_0Mat
+    2100028: room_1Mat
+    2100030: room_2Mat
+    2100032: Stairs(L)_0Mat
+    2100034: Stairs(L)_1Mat
+    2100036: Stairs(R)_0Mat
+    2100038: Stairs(R)_1Mat
+    2100040: wall(B)_0Mat
+    2100042: wall(B)_1Mat
+    2100044: wall(L)Mat
+    2300000: Arch
+    2300002: Base(L)
+    2300004: Base(R)
+    2300006: Board_0
+    2300008: Board_1
+    2300010: Cube
+    2300012: plate
+    2300014: repair
+    2300016: roof_0
+    2300018: roof_1
+    2300020: roof_2
+    2300022: roof_3
+    2300024: roof_4
+    2300026: room_0
+    2300028: room_1
+    2300030: room_2
+    2300032: Stairs(L)_0
+    2300034: Stairs(L)_1
+    2300036: Stairs(R)_0
+    2300038: Stairs(R)_1
+    2300040: wall(B)_0
+    2300042: wall(B)_1
+    2300044: wall(L)
+    3300000: Arch
+    3300002: Base(L)
+    3300004: Base(R)
+    3300006: Board_0
+    3300008: Board_1
+    3300010: Cube
+    3300012: plate
+    3300014: repair
+    3300016: roof_0
+    3300018: roof_1
+    3300020: roof_2
+    3300022: roof_3
+    3300024: roof_4
+    3300026: room_0
+    3300028: room_1
+    3300030: room_2
+    3300032: Stairs(L)_0
+    3300034: Stairs(L)_1
+    3300036: Stairs(R)_0
+    3300038: Stairs(R)_1
+    3300040: wall(B)_0
+    3300042: wall(B)_1
+    3300044: wall(L)
+    4300000: Arch
+    4300002: Base(L)
+    4300004: Base(R)
+    4300006: Board_0
+    4300008: Board_1
+    4300010: Cube
+    4300012: plate
+    4300014: repair
+    4300016: roof_0
+    4300018: roof_1
+    4300020: roof_2
+    4300022: roof_3
+    4300024: roof_4
+    4300026: room_0
+    4300028: room_1
+    4300030: room_2
+    4300032: Stairs(L)_0
+    4300034: Stairs(L)_1
+    4300036: Stairs(R)_0
+    4300038: Stairs(R)_1
+    4300040: wall(B)_0
+    4300042: wall(B)_1
+    4300044: wall(L)
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArchMat
+    second: {fileID: 2100000, guid: 1e049289479728545b6897487142c255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base(L)Mat
+    second: {fileID: 2100000, guid: 1e049289479728545b6897487142c255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base(R)Mat
+    second: {fileID: 2100000, guid: 1e049289479728545b6897487142c255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board_0Mat
+    second: {fileID: 2100000, guid: 9ca205fc3967ff246b6863ebee3eaf6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board_1Mat
+    second: {fileID: 2100000, guid: 1e049289479728545b6897487142c255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CubeMat
+    second: {fileID: 2100000, guid: 1e049289479728545b6897487142c255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs(L)_0Mat
+    second: {fileID: 2100000, guid: 1e049289479728545b6897487142c255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs(L)_1Mat
+    second: {fileID: 2100000, guid: 1e049289479728545b6897487142c255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs(R)_0Mat
+    second: {fileID: 2100000, guid: 1e049289479728545b6897487142c255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs(R)_1Mat
+    second: {fileID: 2100000, guid: 1e049289479728545b6897487142c255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plateMat
+    second: {fileID: 2100000, guid: 1e049289479728545b6897487142c255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: repairMat
+    second: {fileID: 2100000, guid: 2d8cb353bae1f4647adf7aba715d29a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_0Mat
+    second: {fileID: 2100000, guid: 7dda1f2e4c596074ab6fa65c2ea15818, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_1Mat
+    second: {fileID: 2100000, guid: bce5598c7cbbdbd498c77eea145bffd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_2Mat
+    second: {fileID: 2100000, guid: 7ce68744220bb544ea9d12ddf3548249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_3Mat
+    second: {fileID: 2100000, guid: 7ce68744220bb544ea9d12ddf3548249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_4Mat
+    second: {fileID: 2100000, guid: c91ab97e46514444cb2a282d5db7366a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room_0Mat
+    second: {fileID: 2100000, guid: a444452f7560de24faeeae691a2ba889, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room_1Mat
+    second: {fileID: 2100000, guid: a444452f7560de24faeeae691a2ba889, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room_2Mat
+    second: {fileID: 2100000, guid: 2d8cb353bae1f4647adf7aba715d29a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall(B)_0Mat
+    second: {fileID: 2100000, guid: 5f323c255b9475c44958099c84d1b648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall(B)_1Mat
+    second: {fileID: 2100000, guid: 5f323c255b9475c44958099c84d1b648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall(L)Mat
+    second: {fileID: 2100000, guid: 09aa3d53c22c2d24fa81b95259100e22, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

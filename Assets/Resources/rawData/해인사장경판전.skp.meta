@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: f2057d2a274e1984c8865ab36355c857
+SketchUpImporter:
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 6b91aa596682d7ac4f0a086760147d04
+  longitude: 128.09882266460613
+  latitude: 35.801579894424925
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -15.718588, y: 59.56768, z: -111.00833}
+      lookAt: {x: 8.0518465, y: -18.153404, z: 22.351843}
+      up: {x: 0.08732682, y: 0.8673752, z: 0.48993295}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Google Earth Snapshot
+    100002: //RootNode
+    100004: "\uC791\uC740\uC9D11"
+    100006: "\uC791\uC740\uC9D12"
+    100008: "\uC815\uBB38"
+    100010: "\uD070\uC9D1"
+    100012: "\uD070\uC9D11"
+    100014: "\uD070\uC9D12"
+    100016: "\uD574\uC778\uC0AC1"
+    100018: "\uD574\uC778\uC0AC5"
+    400000: Google Earth Snapshot
+    400002: //RootNode
+    400004: "\uC791\uC740\uC9D11"
+    400006: "\uC791\uC740\uC9D12"
+    400008: "\uC815\uBB38"
+    400010: "\uD070\uC9D1"
+    400012: "\uD070\uC9D11"
+    400014: "\uD070\uC9D12"
+    400016: "\uD574\uC778\uC0AC1"
+    400018: "\uD574\uC778\uC0AC5"
+    2100000: _defaultMat
+    2100002: Google Earth Snapshot1
+    2100004: 1
+    2100006: "\uBC14\uB2E51"
+    2100008: "\uBC14\uB2E5"
+    2100010: "\uBC14\uB2E5\uD759"
+    2100012: "\uB2F4\uC7A5"
+    2100014: "\uB3CC \uB2F4\uC7A5"
+    2100016: "\uC815\uC6D0"
+    2100018: "\uACC4\uB2E8"
+    2100020: "\uC9C0\uBD95\uC0C9"
+    2100022: "\uC9C0\uBD95\uC544\uB7981"
+    2100024: "\uC9C0\uBD952"
+    2100026: "\uC11C\uCABD\uC606\uBA741"
+    2100028: "\uAC00\uB8081"
+    2100030: "\uC815\uBB385"
+    2100032: "\uC11C\uCABD\uBC16\uBA74"
+    2100034: "\uC11C\uCABD\uC606\uBA743"
+    2100036: "\uAE30\uC640"
+    2100038: "\uC548\uCABD\uBCBD\uBA74"
+    2100040: "\uC548\uCABD\uBCBD\uBA742"
+    2100042: "\uC548\uCABD\uC815\uBB38"
+    2100044: "\uC548\uCABD\uC815\uBB382"
+    2100046: "\uB0A8\uCABD\uC815\uBB38"
+    2100048: "\uC11C\uCABD\uC548\uBA742"
+    2100050: "\uC11C\uCABD\uBC16\uBA743"
+    2300000: Google Earth Snapshot
+    2300002: "\uC791\uC740\uC9D11"
+    2300004: "\uC791\uC740\uC9D12"
+    2300006: "\uC815\uBB38"
+    2300008: "\uD070\uC9D1"
+    2300010: "\uD070\uC9D11"
+    2300012: "\uD070\uC9D12"
+    2300014: "\uD574\uC778\uC0AC1"
+    3300000: Google Earth Snapshot
+    3300002: "\uC791\uC740\uC9D11"
+    3300004: "\uC791\uC740\uC9D12"
+    3300006: "\uC815\uBB38"
+    3300008: "\uD070\uC9D1"
+    3300010: "\uD070\uC9D11"
+    3300012: "\uD070\uC9D12"
+    3300014: "\uD574\uC778\uC0AC1"
+    4300000: Mesh Google Earth Snapshot
+    4300002: "Mesh \uD574\uC778\uC0AC1"
+    4300004: "Mesh \uC815\uBB38"
+    4300006: "Mesh \uD070\uC9D1"
+    4300008: "Mesh \uD070\uC9D11"
+    4300010: "Mesh \uD070\uC9D12"
+    4300012: "Mesh \uC791\uC740\uC9D11"
+    4300014: "Mesh \uC791\uC740\uC9D12"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

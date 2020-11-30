@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 981cf49d169581c4e8fa9094d12111a4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DAE_0
+    100004: DAE_1
+    100006: DAE_10
+    100008: DAE_11
+    100010: DAE_12
+    100012: DAE_13
+    100014: DAE_14
+    100016: DAE_2
+    100018: DAE_3
+    100020: DAE_4
+    100022: DAE_5
+    100024: DAE_6
+    100026: DAE_7
+    100028: DAE_8
+    100030: DAE_9
+    400000: //RootNode
+    400002: DAE_0
+    400004: DAE_1
+    400006: DAE_10
+    400008: DAE_11
+    400010: DAE_12
+    400012: DAE_13
+    400014: DAE_14
+    400016: DAE_2
+    400018: DAE_3
+    400020: DAE_4
+    400022: DAE_5
+    400024: DAE_6
+    400026: DAE_7
+    400028: DAE_8
+    400030: DAE_9
+    2300000: DAE_0
+    2300002: DAE_1
+    2300004: DAE_10
+    2300006: DAE_11
+    2300008: DAE_12
+    2300010: DAE_13
+    2300012: DAE_14
+    2300014: DAE_2
+    2300016: DAE_3
+    2300018: DAE_4
+    2300020: DAE_5
+    2300022: DAE_6
+    2300024: DAE_7
+    2300026: DAE_8
+    2300028: DAE_9
+    3300000: DAE_0
+    3300002: DAE_1
+    3300004: DAE_10
+    3300006: DAE_11
+    3300008: DAE_12
+    3300010: DAE_13
+    3300012: DAE_14
+    3300014: DAE_2
+    3300016: DAE_3
+    3300018: DAE_4
+    3300020: DAE_5
+    3300022: DAE_6
+    3300024: DAE_7
+    3300026: DAE_8
+    3300028: DAE_9
+    4300000: DAE_0
+    4300002: DAE_1
+    4300004: DAE_10
+    4300006: DAE_11
+    4300008: DAE_12
+    4300010: DAE_13
+    4300012: DAE_14
+    4300014: DAE_2
+    4300016: DAE_3
+    4300018: DAE_4
+    4300020: DAE_5
+    4300022: DAE_6
+    4300024: DAE_7
+    4300026: DAE_8
+    4300028: DAE_9
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_0Mat
+    second: {fileID: 2100000, guid: 58ceaf7510be26d4786f1283d29211ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_10Mat
+    second: {fileID: 2100000, guid: a48a57631fc66e54eb379c33774bb9f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_11Mat
+    second: {fileID: 2100000, guid: 888705afacb59684ab748b428574f03a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_12Mat
+    second: {fileID: 2100000, guid: f570e117a5299c6429b75bb9ae88ce39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_13Mat
+    second: {fileID: 2100000, guid: b8ba6e86ce366954e99a22d6e55e308a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_14Mat
+    second: {fileID: 2100000, guid: 99b691650d375ec468174fa3ab3e4d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_1Mat
+    second: {fileID: 2100000, guid: 1be3e9624a2e4674786495cf82c1ccc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_2Mat
+    second: {fileID: 2100000, guid: 2c932fb4f59282f4dbc0236efedb1aa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_3Mat
+    second: {fileID: 2100000, guid: 05ce9787770c4c342b6525dc2c4eb473, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_4Mat
+    second: {fileID: 2100000, guid: 96d08f2aeeeb9074e8eb3daa0ccea7d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_5Mat
+    second: {fileID: 2100000, guid: c6f5c0a34f27942439dc6ba840c0163a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_6Mat
+    second: {fileID: 2100000, guid: b355c57c38df69a44aa59025daa22ce4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_7Mat
+    second: {fileID: 2100000, guid: 7f46d479c77e910479bbeda89ac00128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_8Mat
+    second: {fileID: 2100000, guid: 4ca7b24ced642fa4e94b7142295faa7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DAE_9Mat
+    second: {fileID: 2100000, guid: 8a1e4ac5163b66144bd4227d727a6f3d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

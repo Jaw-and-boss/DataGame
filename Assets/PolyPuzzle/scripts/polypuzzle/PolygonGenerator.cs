@@ -74,7 +74,6 @@ namespace Hitcode_tangram
             gameObject.AddComponent<NewMeshCollider>();
             gameObject.GetComponent<NewMeshCollider>().Calculate();
 
-
             //gameObject.GetComponent<MeshCollider>().convex = true;
             //gameObject.AddComponent(typeof(cakeslice.Outline));
             //gameObject.GetComponent<cakeslice.Outline>().color = Random.Range(0, 3);

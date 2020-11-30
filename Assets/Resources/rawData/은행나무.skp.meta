@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 678f7f0710efb4b4389ff9b0f3aaf6dc
+SketchUpImporter:
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f0000003000000031000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 73aad55edfb2c67601b5450a95d5147a
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -9.812652, y: 4.2994747, z: 2.8749084}
+      lookAt: {x: 0.33675364, y: 2.1607761, z: -0.07554253}
+      up: {x: 0.19044203, y: 0.98013616, z: -0.05536185}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 179.72688
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: branch
+    100002: branch 1
+    100004: branch 10
+    100006: branch 11
+    100008: branch 2
+    100010: branch 3
+    100012: branch 4
+    100014: branch 5
+    100016: branch 6
+    100018: branch 7
+    100020: branch 8
+    100022: branch 9
+    100024: branch_full
+    100026: branch_full 1
+    100028: branch_full 2
+    100030: branch_full 3
+    100032: Conifer
+    100034: Foliage-Canopy-Irrg-01#3
+    100036: Foliage-Canopy-Irrg-01#3 1
+    100038: Foliage-Canopy-Irrg-01#3 2
+    100040: Foliage-Canopy-Irrg-01#3 3
+    100042: Foliage-Canopy-Irrg-01#3 4
+    100044: Foliage-Canopy-Irrg-01#3 5
+    100046: Foliage-Canopy-Irrg-01#3 6
+    100048: Foliage-Canopy-Irrg-01#3 7
+    100050: Foliage-Canopy-Irrg-01#3 8
+    100052: Trunk-SM4-01
+    100054: //RootNode
+    400000: branch
+    400002: branch 1
+    400004: branch 10
+    400006: branch 11
+    400008: branch 2
+    400010: branch 3
+    400012: branch 4
+    400014: branch 5
+    400016: branch 6
+    400018: branch 7
+    400020: branch 8
+    400022: branch 9
+    400024: branch_full
+    400026: branch_full 1
+    400028: branch_full 2
+    400030: branch_full 3
+    400032: Conifer
+    400034: Foliage-Canopy-Irrg-01#3
+    400036: Foliage-Canopy-Irrg-01#3 1
+    400038: Foliage-Canopy-Irrg-01#3 2
+    400040: Foliage-Canopy-Irrg-01#3 3
+    400042: Foliage-Canopy-Irrg-01#3 4
+    400044: Foliage-Canopy-Irrg-01#3 5
+    400046: Foliage-Canopy-Irrg-01#3 6
+    400048: Foliage-Canopy-Irrg-01#3 7
+    400050: Foliage-Canopy-Irrg-01#3 8
+    400052: Trunk-SM4-01
+    400054: //RootNode
+    2300000: branch
+    2300002: branch 1
+    2300004: branch 10
+    2300006: branch 11
+    2300008: branch 2
+    2300010: branch 3
+    2300012: branch 4
+    2300014: branch 5
+    2300016: branch 6
+    2300018: branch 7
+    2300020: branch 8
+    2300022: branch 9
+    2300024: Foliage-Canopy-Irrg-01#3
+    2300026: Foliage-Canopy-Irrg-01#3 1
+    2300028: Foliage-Canopy-Irrg-01#3 2
+    2300030: Foliage-Canopy-Irrg-01#3 3
+    2300032: Foliage-Canopy-Irrg-01#3 4
+    2300034: Foliage-Canopy-Irrg-01#3 5
+    2300036: Foliage-Canopy-Irrg-01#3 6
+    2300038: Foliage-Canopy-Irrg-01#3 7
+    2300040: Foliage-Canopy-Irrg-01#3 8
+    2300042: Trunk-SM4-01
+    3300000: branch
+    3300002: branch 1
+    3300004: branch 10
+    3300006: branch 11
+    3300008: branch 2
+    3300010: branch 3
+    3300012: branch 4
+    3300014: branch 5
+    3300016: branch 6
+    3300018: branch 7
+    3300020: branch 8
+    3300022: branch 9
+    3300024: Foliage-Canopy-Irrg-01#3
+    3300026: Foliage-Canopy-Irrg-01#3 1
+    3300028: Foliage-Canopy-Irrg-01#3 2
+    3300030: Foliage-Canopy-Irrg-01#3 3
+    3300032: Foliage-Canopy-Irrg-01#3 4
+    3300034: Foliage-Canopy-Irrg-01#3 5
+    3300036: Foliage-Canopy-Irrg-01#3 6
+    3300038: Foliage-Canopy-Irrg-01#3 7
+    3300040: Foliage-Canopy-Irrg-01#3 8
+    3300042: Trunk-SM4-01
+    4300000: Mesh Trunk-SM4-01
+    4300002: Mesh branch
+    4300004: Mesh Foliage-Canopy-Irrg-01#3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c-Ginkgo-01
+    second: {fileID: 2100000, guid: a115502e3c7e5a14f9f120c6c41d27b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t-Ginkgo-02
+    second: {fileID: 2100000, guid: e9ef91097d8e6cf49be11c86f6f78f1f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

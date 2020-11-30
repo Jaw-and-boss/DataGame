@@ -24,8 +24,6 @@ namespace Hitcode_tangram
         float moveX;
         void Start()
         {
-
-
             GameManager.getInstance().init();
             //		GameManager.getInstance ().hideBanner (true);
             //GameData.getInstance().cLevel = -1;
@@ -36,8 +34,6 @@ namespace Hitcode_tangram
             //fix position bug
             all_mainMenu.transform.parent.GetComponent<RectTransform>().GetLocalCorners(corners);
             moveX = (corners[3] - corners[0]).x;
-
-
 
             toggleMusic.isOn = GameData.getInstance().isSoundOn == 1 ? true : false;//0 is on
             toggleSFX.isOn = GameData.getInstance().isSfxOn == 1 ? true : false;
@@ -52,7 +48,7 @@ namespace Hitcode_tangram
 
 
             if (all_level != null) return;
-            SceneManager.LoadScene("LevelMenu", LoadSceneMode.Additive);
+            SceneManager.LoadScene("InGame");
 
 
 
@@ -149,6 +145,7 @@ namespace Hitcode_tangram
 
                     }
                     break;
+                    /*
                 case "btnReview":
                     GameManager.getInstance().playSfx("click");
                     //			UniRate.Instance.RateIfNetworkAvailable();
@@ -162,6 +159,7 @@ namespace Hitcode_tangram
                     GameManager.getInstance().playSfx("click");
                     GameManager.getInstance().ShowLeaderboard();
                     break;
+                    */
             }
         }
 
